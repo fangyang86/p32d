@@ -1,5 +1,6 @@
 # p32d
 
+4 20171026 tag v1 change main clock to 168MHz
 3 20171026 tag v0
 
 2 20171026 add init bat file

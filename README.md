@@ -1,5 +1,7 @@
 # p32d
 
+3 20171026 tag v0
+
 2 20171026 add init bat file
 2.1 cp psi.PO pcubemx.uvopt pcubemx.uvproj
 

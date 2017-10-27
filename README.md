@@ -1,5 +1,8 @@
 # p32d
 
+5 20171027 create branch bfree (freertos)
+5.1 add branch bfree tag v1.0 
+
 4 20171026 tag v1 change main clock to 168MHz
 3 20171026 tag v0
 
